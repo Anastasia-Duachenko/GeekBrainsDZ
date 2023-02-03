@@ -57,7 +57,7 @@ int FoundCount(int[] array)
 
 /*Задача 38: Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным элементов массива.
 [3 7 22 2 78] -> 76*/
-/*
+
 Console.Clear();
 int[] MassivArray(int N, int start, int end)
 {
@@ -82,6 +82,6 @@ int FoundCount(int[] array)
         if (max < i) max = i;
     }
     return max - min;
-}*/
+}
  
  
